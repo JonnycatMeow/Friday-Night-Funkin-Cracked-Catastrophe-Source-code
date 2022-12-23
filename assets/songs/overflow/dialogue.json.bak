@@ -1,0 +1,63 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Welcome back, [username]!"
+			},
+			{
+				"expression": "normal",
+				"text": "Hope you enjoyed my gift."
+			},
+			{
+				"text": "Oh, and it looks like you beat my score! Not bad!"
+			},
+			{
+				"text": "Anyways, enough with the formalities."
+			},
+			{
+				"text":  "I wonder if you've got steam on here..."
+			},
+			{
+				"text": "Ah, there it is!"
+			},
+			{
+				"text":  "Let's have a look at what you've got installed."
+			},
+			{
+				"text": "Hacknet? Dangerously good taste there, [username]."
+			},
+			{
+				"text": "Spacewar, hm? Looks like this isn't your first rodeo with piracy."
+			},
+			{
+				"text": "Ah, Among Us. You've been pretty sus yourself."
+			},
+			{
+				"text": "Woah, Average4k? Someone's important."
+			},
+			{
+				"text": "MADNESS! Newgrounds REPRESENT!"
+			},
+			{
+				"text": "Hm, nothing of interest here. You're pretty boring, [username]."
+			},
+			{
+				"text": "No? Shame."
+			},
+			{
+				"text": "Anyways, I've been talking for too long."
+			},
+			{
+				"text": "Let's go for another couple rounds. \n No score requirements this time."
+			},
+			{
+				"text": "Nor any other surprises, you'll be happy to know."
+			},
+			{
+				"text": "You beat me before, but let's see if you can keep up with THIS!"
+			}
+	]
+}

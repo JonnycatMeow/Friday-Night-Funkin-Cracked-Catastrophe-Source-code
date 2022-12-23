@@ -1,0 +1,20 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{	
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Damn, you suck at this shit."
+			},
+			{
+				"expression": "normal",
+				"text": "I'm gonna need you to go get some sun, maybe touch a little grass."
+			},
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Later!"
+			}
+	]
+}

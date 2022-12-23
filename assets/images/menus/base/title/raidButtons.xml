@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="raidButtons.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RAID SEL0000" x="9" y="9" width="160" height="461"/>
+	<SubTexture name="RAID UNSEL0000" x="179" y="9" width="160" height="461"/>
+</TextureAtlas>

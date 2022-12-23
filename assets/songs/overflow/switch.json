@@ -1,0 +1,11 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Let's switch up your vocals!"
+			}
+	]
+}

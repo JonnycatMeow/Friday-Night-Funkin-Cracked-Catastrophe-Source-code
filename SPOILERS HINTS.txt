@@ -1,0 +1,26 @@
+POST-FRESH:
+
+Note down the first three numbers in the IP shown on screen, seperated by dots or not.
+Example: 10.52.192.236 >>>>> 105
+
+Restart the game and hit 6 on the main menu. Enter that code.
+
+
+POST-PIRACY CHECK:
+
+Funklock got you locked out, hm? I've gotcha.
+
+Head on over to assets/images/menus/base/funkLock.txt
+
+Open it up and modify it so the values look something like this:
+funklock.active = true:
+funklock.enforceDRM = false:
+funklock.triggerAlert = false:
+funklock.debugBypass = true:
+
+That should give you access, and you'll be home free from there.
+
+
+UNLOCKING BONUS FREEPLAY CHARACTERS:
+
+Nobody seems to have left a file containing the names of some mods. Maybe you should check them out.

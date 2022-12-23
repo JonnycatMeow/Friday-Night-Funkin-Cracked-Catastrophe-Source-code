@@ -1,0 +1,19 @@
+GUIDE TO DEVELOPING FUNKIN'
+
+FOR INTERNAL USE ONLY
+
+Welcome to the Funkin' codebase!
+I'm not sorry.
+
+This document will walk you through some common issues that you may encounter whilst working on the game, so please follow this list before asking someone else for help. Seriously. Jerry asked for help for 14 times in the same day, and it made us wonder if he'd even seen a computer before.
+
+If you're looking to add any new data to be saved, such as story mode flags or other things that aren't score related, head over to Flags.hx. It's all documented, so you should be able to get started pretty easily. If you still can't get it working, consider rubbing those two remaining brain cells you have together and try again.
+
+If you're constantly getting build errors due to a var not existing, make sure the capitalisation's correct. It's happened so much now that we have a jar for it. Every time you ask for help and it's because of another fucking dumbass capitalisation mistake, you gotta put a dollar in the jar. When it's full, we'll buy all of you crack to compensate you for having to gaze at this spaghettified shitpile of a game. It's the least we could do.
+
+If you get locked out by the DRM, hop into assets/images/menus/base and fuck around with funkLock.txt. If you're still stuck, yell at Nobody and he'll probably come and fix it for you. Part of me thinks he does this deliberately, considering how much he was against the whole thing in the first place. After we couldn't take his bitching and whining anymore, we made him write the entire fucking thing out instead, which we thought was pretty funny.
+
+If you're having trouble with positioning stage elements, cope. I had to sit through doing all that shit, and I'll be damned if I'm the only one who has to go through all that pain. If I catch you writing a stage editor, you'll be fired on the spot. Seriously, it's in your contract.
+
+And hopefully, that should cover the most common issues. If you have an issue not listed here, or need some general advice, feel free to send an email to my.ass@funkin.net. We'll read it once you file a lawsuit against us for wrongful dismissal, we promise.
+

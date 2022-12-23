@@ -1,0 +1,54 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{			
+				"text": "Welcome Roachy, glad you could make it!"
+			},
+			{
+				"text": "Roachy, huh? Weird, \nthink i've heard that name before.."
+			},
+			{
+				"text": "Where was I..."
+			},
+			{
+				"text": "Ah, right!"
+			},
+			{
+				"text": "I should introduce myself. Call me..."
+			},
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Nobody."
+			},
+			{
+				"expression": "normal",
+				"text": "I helped program this game for a bit, \nand noticed that a little anti piracy  \nscreen got pushed to the repo."
+			},
+			{
+				"text":  "I didn't like that, \nso I snuck this little feature in."
+			},
+			{
+				"text": "Why?"
+			},
+			{
+				"text":  "Because piracy FUCKING ROCKS, Roachy!"
+			},
+			{
+				"text": "Anyways, here's how it's gonna work:"
+			},
+			{
+				"text": "We're gonna play a song. \nBeat my best score, \nand you can get on with your game."
+			},
+			{
+				"text": "Lose however, and well..."
+			},
+			{
+				"text": "Let's just say you'll be \nhearing sirens REAL soon."
+			},
+			{
+				"text": "Anyways, good luck Roachy!"
+			}
+	]
+}

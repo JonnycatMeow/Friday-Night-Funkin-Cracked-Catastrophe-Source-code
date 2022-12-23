@@ -1,0 +1,15 @@
+Here's the dev notes for the mod. In this, i'm breaking down what i've done and what i wish i could've done/done better.
+
+SHIT I DID THAT I THINK'S PRETTY COOL:
+
+SHADERS! I managed to get shaders integrated and running pretty damn good, in my opinion. the process of finding and porting them really opened my eyes on how much they can do, too. That cool-ass synthwave background in the first section of overflow? That's a shader. Shit's crazy.
+
+REGISTRY SHIT! if you're not a programmer, you probably won't care, but i'm primarily a programmer and I think what I pulled off is pretty fucking cool. I used this to see if the player has Steam installed, and if so, if they've got a select few games on their PC. I initially thought of doing some shit like checking if game folders existed in the C: drive, but then remembered that steam can install shit on multiple different drives. I remembered this, because I have games installed over multiple drives. In case you couldn't tell, I'm slightly retarded. Either way, I still think it was pretty fucking awesome that I managed to do this. Also, to the folks over on the Psycho Mantis mod, you're welcome hehe.
+
+ACTUAL DYNAMIC DIALOGUE! I couldn't think of a better name for this shit, so whatever. Instead of V1, which had a shitton of different dialogue files for streamer mode (they're probably still there because i'm a lazy fuck and it works anyways), the mod will just directly throw out bits it doesn't need in the Overflow dialogue. For example, say you've got steam installed, and have Among Us and MADNESS: Project Nexus installed. There's 5 games with special dialogue, so after confirming that the other 3 haven't been installed on this PC via checking the registry, it'll throw out those lines of dialogue and keep on going. 
+
+SHIT I WISH I COULD'VE DONE BETTER:
+
+for the middle verse of Overflow where the background's a desktop, i was originally gonna have the game window be transparent, sorta remeniscent of MAELSTROM from Troubleshootin'. Unfortunately, that shit's /waaaaaaaaaay/ easier said than done. I scoured far and wide looking for anything to pull off the same effect, even going to the lengths of injecting some C++ code and shit straight up refused to work. From what I read on some forum post, apparently it's to do with some super low-level (for non-programmers, imagine the source code of the source code. that deep.) SDL rendering shit, which i am DEFINITELY not qualified for. Damn shame too, while making the song I geared that section specifically around that idea.
+
+Art. I cannot draw for my fucking life. If I knew how to actually draw, I'd be a one man mod making machine. Unfortunately, I can't. That's why everything uses base funkin assets. I still think I utilised them pretty well, though.

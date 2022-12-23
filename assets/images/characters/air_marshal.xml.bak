@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="this_sucks.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="air marshal GET DOWN0000" x="12" y="12" width="482" height="677" frameX="0" frameY="0" frameWidth="879" frameHeight="678"/>
+	<SubTexture name="air marshal GET DOWN0001" x="12" y="12" width="482" height="677" frameX="0" frameY="0" frameWidth="879" frameHeight="678"/>
+	<SubTexture name="air marshal GET DOWN0002" x="504" y="12" width="480" height="677" frameX="-2" frameY="-1" frameWidth="879" frameHeight="678"/>
+	<SubTexture name="air marshal GET DOWN0003" x="504" y="12" width="480" height="677" frameX="-2" frameY="-1" frameWidth="879" frameHeight="678"/>
+	<SubTexture name="air marshal idle0000" x="994" y="12" width="753" height="700"/>
+	<SubTexture name="air marshal idle0001" x="994" y="12" width="753" height="700"/>
+	<SubTexture name="air marshal idle0002" x="1757" y="12" width="748" height="700" frameX="-1" frameY="0" frameWidth="753" frameHeight="700"/>
+	<SubTexture name="air marshal idle0003" x="1757" y="12" width="748" height="700" frameX="-1" frameY="0" frameWidth="753" frameHeight="700"/>
+	<SubTexture name="1air marshal idle ALT0000" x="2515" y="12" width="822" height="689" frameX="0" frameY="-2" frameWidth="822" frameHeight="691"/>
+	<SubTexture name="1air marshal idle ALT0001" x="3347" y="12" width="728" height="691" frameX="-4" frameY="0" frameWidth="822" frameHeight="691"/>
+	<SubTexture name="1air marshal idle ALT0002" x="2515" y="12" width="822" height="689" frameX="0" frameY="-2" frameWidth="822" frameHeight="691"/>
+	<SubTexture name="1air marshal idle ALT0003" x="3347" y="12" width="728" height="691" frameX="-4" frameY="0" frameWidth="822" frameHeight="691"/>
+	<SubTexture name="air marshal singDOWN0000" x="4085" y="12" width="440" height="598" frameX="-6" frameY="-15" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0001" x="4535" y="12" width="439" height="611" frameX="-1" frameY="-2" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0002" x="4535" y="12" width="439" height="611" frameX="-1" frameY="-2" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0003" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0004" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0005" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0006" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0007" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0008" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0009" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0010" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0011" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0012" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="air marshal singDOWN0013" x="4984" y="12" width="439" height="613" frameX="0" frameY="0" frameWidth="446" frameHeight="613"/>
+	<SubTexture name="1air marshal singDOWN ALT0000" x="5433" y="12" width="735" height="798" frameX="-1" frameY="-15" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0001" x="6178" y="12" width="655" height="701" frameX="-1" frameY="-112" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0002" x="6843" y="12" width="746" height="806" frameX="0" frameY="-7" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0003" x="12" y="828" width="659" height="707" frameX="-1" frameY="-106" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0004" x="681" y="828" width="750" height="813" frameX="0" frameY="0" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0005" x="1441" y="828" width="661" height="699" frameX="-1" frameY="-114" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0006" x="2112" y="828" width="752" height="805" frameX="0" frameY="-8" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0007" x="1441" y="828" width="661" height="699" frameX="-1" frameY="-114" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0008" x="2112" y="828" width="752" height="805" frameX="0" frameY="-8" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0009" x="1441" y="828" width="661" height="699" frameX="-1" frameY="-114" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0010" x="2112" y="828" width="752" height="805" frameX="0" frameY="-8" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0011" x="1441" y="828" width="661" height="699" frameX="-1" frameY="-114" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0012" x="2112" y="828" width="752" height="805" frameX="0" frameY="-8" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="1air marshal singDOWN ALT0013" x="1441" y="828" width="661" height="699" frameX="-1" frameY="-114" frameWidth="752" frameHeight="813"/>
+	<SubTexture name="air marshal singLEFT0000" x="2874" y="828" width="632" height="672" frameX="0" frameY="0" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0001" x="3516" y="828" width="640" height="671" frameX="-13" frameY="-1" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0002" x="3516" y="828" width="640" height="671" frameX="-13" frameY="-1" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0003" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0004" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0005" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0006" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0007" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0008" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0009" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0010" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0011" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0012" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="air marshal singLEFT0013" x="4166" y="828" width="641" height="670" frameX="-14" frameY="-2" frameWidth="655" frameHeight="672"/>
+	<SubTexture name="1air marshal singLEFT ALT0000" x="4817" y="828" width="1288" height="689" frameX="0" frameY="0" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0001" x="6115" y="828" width="1111" height="682" frameX="-95" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0002" x="12" y="1651" width="1291" height="685" frameX="-5" frameY="-4" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0003" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0004" x="2436" y="1651" width="1293" height="682" frameX="-8" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0005" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0006" x="2436" y="1651" width="1293" height="682" frameX="-8" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0007" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0008" x="2436" y="1651" width="1293" height="682" frameX="-8" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0009" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0010" x="2436" y="1651" width="1293" height="682" frameX="-8" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0011" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0012" x="2436" y="1651" width="1293" height="682" frameX="-8" frameY="-7" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="1air marshal singLEFT ALT0013" x="1313" y="1651" width="1113" height="679" frameX="-98" frameY="-10" frameWidth="1301" frameHeight="689"/>
+	<SubTexture name="air marshal singRIGHT0000" x="3739" y="1651" width="604" height="702" frameX="-7" frameY="0" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0001" x="4353" y="1651" width="598" height="699" frameX="-2" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0002" x="4353" y="1651" width="598" height="699" frameX="-2" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0003" x="4961" y="1651" width="598" height="698" frameX="0" frameY="-4" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0004" x="4961" y="1651" width="598" height="698" frameX="0" frameY="-4" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0005" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0006" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0007" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0008" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0009" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0010" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0011" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0012" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="air marshal singRIGHT0013" x="5569" y="1651" width="598" height="699" frameX="-1" frameY="-3" frameWidth="611" frameHeight="702"/>
+	<SubTexture name="1air marshal singRIGHT ALT0000" x="6177" y="1651" width="740" height="703" frameX="-18" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0001" x="6927" y="1651" width="666" height="703" frameX="-11" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0002" x="12" y="2364" width="755" height="701" frameX="-12" frameY="-4" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0003" x="777" y="2364" width="668" height="703" frameX="-4" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0004" x="1455" y="2364" width="762" height="701" frameX="0" frameY="-4" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0005" x="2227" y="2364" width="660" height="705" frameX="-7" frameY="0" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0006" x="2897" y="2364" width="754" height="703" frameX="-3" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0007" x="2227" y="2364" width="660" height="705" frameX="-7" frameY="0" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0008" x="2897" y="2364" width="754" height="703" frameX="-3" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0009" x="2227" y="2364" width="660" height="705" frameX="-7" frameY="0" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0010" x="2897" y="2364" width="754" height="703" frameX="-3" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0011" x="2227" y="2364" width="660" height="705" frameX="-7" frameY="0" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0012" x="2897" y="2364" width="754" height="703" frameX="-3" frameY="-2" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="1air marshal singRIGHT ALT0013" x="2227" y="2364" width="660" height="705" frameX="-7" frameY="0" frameWidth="767" frameHeight="705"/>
+	<SubTexture name="air marshal singUP0000" x="3661" y="2364" width="488" height="722" frameX="0" frameY="0" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0001" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0002" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0003" x="4662" y="2364" width="493" height="713" frameX="-4" frameY="-9" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0004" x="4662" y="2364" width="493" height="713" frameX="-4" frameY="-9" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0005" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0006" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0007" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0008" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0009" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0010" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0011" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0012" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="air marshal singUP0013" x="4159" y="2364" width="493" height="714" frameX="-3" frameY="-8" frameWidth="497" frameHeight="722"/>
+	<SubTexture name="1air marshal singUP ALT0000" x="5165" y="2364" width="710" height="898" frameX="-9" frameY="0" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0001" x="5885" y="2364" width="649" height="823" frameX="-3" frameY="-75" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0002" x="6544" y="2364" width="727" height="883" frameX="0" frameY="-15" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0003" x="7281" y="2364" width="656" height="805" frameX="-3" frameY="-93" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0004" x="12" y="3272" width="737" height="864" frameX="0" frameY="-34" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0005" x="759" y="3272" width="662" height="788" frameX="-3" frameY="-110" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0006" x="1431" y="3272" width="743" height="847" frameX="0" frameY="-51" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0007" x="759" y="3272" width="662" height="788" frameX="-3" frameY="-110" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0008" x="1431" y="3272" width="743" height="847" frameX="0" frameY="-51" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0009" x="759" y="3272" width="662" height="788" frameX="-3" frameY="-110" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0010" x="1431" y="3272" width="743" height="847" frameX="0" frameY="-51" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0011" x="759" y="3272" width="662" height="788" frameX="-3" frameY="-110" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0012" x="1431" y="3272" width="743" height="847" frameX="0" frameY="-51" frameWidth="743" frameHeight="898"/>
+	<SubTexture name="1air marshal singUP ALT0013" x="759" y="3272" width="662" height="788" frameX="-3" frameY="-110" frameWidth="743" frameHeight="898"/>
+</TextureAtlas>

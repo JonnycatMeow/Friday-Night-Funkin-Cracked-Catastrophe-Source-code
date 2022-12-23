@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="powerlinesBack.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="powerLinesScrollBack0000" x="9" y="9" width="3267" height="964" frameX="0" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0001" x="9" y="9" width="3267" height="964" frameX="-204" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0002" x="9" y="9" width="3267" height="964" frameX="-408" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0003" x="9" y="9" width="3267" height="964" frameX="-612" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0004" x="9" y="9" width="3267" height="964" frameX="-816" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0005" x="9" y="9" width="3267" height="964" frameX="-1020" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0006" x="9" y="9" width="3267" height="964" frameX="-1224" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0007" x="9" y="973" width="3267" height="964" frameX="-1428" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0008" x="9" y="9" width="3267" height="964" frameX="0" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0009" x="9" y="9" width="3267" height="964" frameX="-204" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0010" x="9" y="9" width="3267" height="964" frameX="-408" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0011" x="9" y="9" width="3267" height="964" frameX="-612" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0012" x="9" y="9" width="3267" height="964" frameX="-816" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0013" x="9" y="9" width="3267" height="964" frameX="-1020" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0014" x="9" y="9" width="3267" height="964" frameX="-1224" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0015" x="9" y="973" width="3267" height="964" frameX="-1428" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0016" x="9" y="9" width="3267" height="964" frameX="0" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0017" x="9" y="9" width="3267" height="964" frameX="-204" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0018" x="9" y="9" width="3267" height="964" frameX="-408" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0019" x="9" y="9" width="3267" height="964" frameX="-612" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0020" x="9" y="9" width="3267" height="964" frameX="-816" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0021" x="9" y="9" width="3267" height="964" frameX="-1020" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0022" x="9" y="9" width="3267" height="964" frameX="-1224" frameY="0" frameWidth="4695" frameHeight="964"/>
+	<SubTexture name="powerLinesScrollBack0023" x="9" y="973" width="3267" height="964" frameX="-1428" frameY="0" frameWidth="4695" frameHeight="964"/>
+</TextureAtlas>

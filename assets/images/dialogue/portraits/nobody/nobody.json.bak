@@ -1,0 +1,12 @@
+{
+	"name": "nobody",
+	"expressions":
+	{
+		"normal": "Nobody Dialog Normal",
+		"open": "Nobody Dialog Open"
+	},
+	"position": [420, 150],
+	"scale": 1.25,
+	"loop": false
+	
+}

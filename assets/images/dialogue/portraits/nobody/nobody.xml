@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobody.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nobody Dialog Normal0000" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0001" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0002" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0003" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0004" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0005" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0006" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0007" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0008" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Normal0009" x="9" y="9" width="392" height="412"/>
+	<SubTexture name="Nobody Dialog Open0000" x="401" y="9" width="397" height="392" frameX="0" frameY="-20" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0001" x="401" y="9" width="397" height="392" frameX="0" frameY="-20" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0002" x="798" y="9" width="398" height="393" frameX="-4" frameY="-19" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0003" x="798" y="9" width="398" height="393" frameX="-4" frameY="-19" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0004" x="1196" y="9" width="393" height="398" frameX="-9" frameY="-14" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0005" x="1196" y="9" width="393" height="398" frameX="-9" frameY="-14" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0006" x="1589" y="9" width="392" height="411" frameX="-12" frameY="-1" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0007" x="9" y="421" width="392" height="411" frameX="-12" frameY="-1" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0008" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0009" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0010" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0011" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0012" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+	<SubTexture name="Nobody Dialog Open0013" x="401" y="421" width="392" height="412" frameX="-12" frameY="0" frameWidth="404" frameHeight="412"/>
+</TextureAtlas>

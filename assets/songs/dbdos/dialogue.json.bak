@@ -1,0 +1,45 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{			
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Managed to survive that? Nice work."
+			},
+			{
+				"expression": "normal",
+				"text": "I'll level with you here, [username]."
+			},
+			{
+				"text": "I'm running out of space to fuck around \nwith you here."
+			},
+			{
+				"text": "I've managed to sneak most of this in \ndue to the fact that nobody checks \npull requests anymore."
+			},
+			{
+				"text":  "But if I keep going, someone's gonna \n be debugging and they'll see all this shit."
+			},
+			{
+				"text": "So, here's the deal:"
+			},
+			{
+				"text":  "I'm gonna cobble a stage together with \nalready existing assets."
+			},
+			{
+				"text": "We're gonna have a fun time."
+			},
+			{
+				"text": "And then I've gotta go."
+			},
+			{
+				"text": "Simple, right?"
+			},
+			{
+				"text": "C'mon [username]."
+			},
+			{
+				"text": "Let's go out with a bang."
+			}
+	]
+}

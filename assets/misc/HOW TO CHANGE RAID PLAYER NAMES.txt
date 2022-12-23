@@ -1,0 +1,12 @@
+Here's some general guidelines for screwing with the .txt files for raid mode:
+I'd recommend you follow these, as otherwise the game'll most likely fucking die and that'll be on you. 
+If you change something and it breaks shit, it isn't my problem.
+
+
+raidPlayers.txt:
+> THERE SHOULD BE 8 PLAYERS MINIMUM IN raidPlayers.txt
+> SEPERATE STRINGS SHOULD BE SEPERATED BY A COMMA.
+
+raidChat###.txt:
+> SEPERATE STRINGS SHOULD BE SEPERATED BY A FORWARD SLASH /
+> THERE SHOULD BE AT LEAST 1 LINE IN EACH FILE.

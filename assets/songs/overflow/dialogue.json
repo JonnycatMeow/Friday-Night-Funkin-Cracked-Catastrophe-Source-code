@@ -1,0 +1,63 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Welcome back, [username]!"
+			},
+			{
+				"expression": "normal",
+				"text": "Hope you enjoyed my gift."
+			},
+			{
+				"text": "Oh, and it looks like you beat my score! \nNot bad!"
+			},
+			{
+				"text": "Anyways, enough with the formalities."
+			},
+			{
+				"text":  "I wonder if you've got steam on here..."
+			},
+			{
+				"text": "Ah, there it is!"
+			},
+			{
+				"text":  "Let's have a look at what \nyou've got installed."
+			},
+			{
+				"text": "Hacknet? Dangerously good \ntaste there, [username]."
+			},
+			{
+				"text": "Spacewar, hm? Looks like this isn't your \nfirst rodeo with piracy."
+			},
+			{
+				"text": "Ah, Among Us. You've been pretty \nsus yourself."
+			},
+			{
+				"text": "Woah, Average4k? \nSomeone's important."
+			},
+			{
+				"text": "MADNESS! Newgrounds \nREPRESENT!"
+			},
+			{
+				"text": "Hm, nothing of interest here. \nYou're pretty boring, [username]."
+			},
+			{
+				"text": "No? Shame."
+			},
+			{
+				"text": "Anyways, I've been talking for too long."
+			},
+			{
+				"text": "Let's go for another couple rounds. \n No score requirements this time."
+			},
+			{
+				"text": "Nor any other surprises, you'll be \nhappy to know."
+			},
+			{
+				"text": "You beat me before, but let's see if \nyou can keep up with THIS!"
+			}
+	]
+}

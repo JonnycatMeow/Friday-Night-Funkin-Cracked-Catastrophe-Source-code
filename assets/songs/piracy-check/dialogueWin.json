@@ -1,0 +1,23 @@
+{
+	"box": "speech_bubble_talking",
+	"boxState": "normal",
+	"dialogue":[
+			{	
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Not bad."
+			},
+			{
+				"expression": "normal",
+				"text": "Not bad at all."
+			},
+			{
+				"text": "Well, deal's a deal. Go have yourself some fun."
+			},
+			{
+				"portrait": "nobody",
+				"expression": "open",
+				"text": "Later!"
+			}
+	]
+}

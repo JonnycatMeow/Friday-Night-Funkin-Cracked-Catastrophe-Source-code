@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobodyIcon.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nobody Icon Down0000" x="9" y="9" width="170" height="156" frameX="-1" frameY="-10" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0001" x="9" y="9" width="170" height="156" frameX="-1" frameY="-10" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0002" x="179" y="9" width="172" height="168"/>
+	<SubTexture name="Nobody Icon Down0003" x="179" y="9" width="172" height="168"/>
+	<SubTexture name="Nobody Icon Down0004" x="351" y="9" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0005" x="160" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0006" x="311" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0007" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0008" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0009" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0010" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0011" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0012" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0013" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0014" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Down0015" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0016" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0017" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0018" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0019" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0020" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0021" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0022" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Down0023" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0000" x="502" y="9" width="177" height="154" frameX="0" frameY="-5" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0001" x="502" y="9" width="177" height="154" frameX="0" frameY="-5" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0002" x="679" y="9" width="170" height="156" frameX="-2" frameY="-1" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0003" x="679" y="9" width="170" height="156" frameX="-2" frameY="-1" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0004" x="849" y="9" width="156" height="148" frameX="-9" frameY="-4" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0005" x="849" y="9" width="156" height="148" frameX="-9" frameY="-4" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0006" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0007" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0008" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0009" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0010" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0011" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0012" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0013" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0014" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0015" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0016" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0017" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0018" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0019" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0020" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0021" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0022" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Idle0023" x="9" y="177" width="151" height="150" frameX="-12" frameY="0" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0000" x="160" y="177" width="173" height="187"/>
+	<SubTexture name="Nobody Icon Left0001" x="160" y="177" width="173" height="187"/>
+	<SubTexture name="Nobody Icon Left0002" x="333" y="177" width="168" height="172" frameX="-2" frameY="-3" frameWidth="173" frameHeight="187"/>
+	<SubTexture name="Nobody Icon Left0003" x="333" y="177" width="168" height="172" frameX="-2" frameY="-3" frameWidth="173" frameHeight="187"/>
+	<SubTexture name="Nobody Icon Left0004" x="9" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0005" x="160" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0006" x="311" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0007" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0008" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0009" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0010" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0011" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0012" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0013" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0014" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Left0015" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0016" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0017" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0018" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0019" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0020" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0021" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0022" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Left0023" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0000" x="501" y="177" width="170" height="156" frameX="-1" frameY="-10" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0001" x="671" y="177" width="170" height="156" frameX="-1" frameY="-10" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0002" x="841" y="177" width="172" height="168"/>
+	<SubTexture name="Nobody Icon Right0003" x="841" y="177" width="172" height="168"/>
+	<SubTexture name="Nobody Icon Right0004" x="9" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0005" x="160" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0006" x="311" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0007" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0008" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0009" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0010" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0011" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0012" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0013" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0014" x="462" y="364" width="151" height="150" frameX="-11" frameY="-9" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Right0015" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0016" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0017" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0018" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0019" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0020" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0021" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0022" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Right0023" x="9" y="177" width="151" height="150" frameX="-11" frameY="-9" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0000" x="613" y="364" width="173" height="187"/>
+	<SubTexture name="Nobody Icon Up0001" x="613" y="364" width="173" height="187"/>
+	<SubTexture name="Nobody Icon Up0002" x="786" y="364" width="168" height="172" frameX="-2" frameY="-3" frameWidth="173" frameHeight="187"/>
+	<SubTexture name="Nobody Icon Up0003" x="786" y="364" width="168" height="172" frameX="-2" frameY="-3" frameWidth="173" frameHeight="187"/>
+	<SubTexture name="Nobody Icon Up0004" x="9" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0005" x="160" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0006" x="311" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0007" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0008" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0009" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0010" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0011" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0012" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0013" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0014" x="462" y="364" width="151" height="150" frameX="-11" frameY="-14" frameWidth="172" frameHeight="168"/>
+	<SubTexture name="Nobody Icon Up0015" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0016" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0017" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0018" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0019" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0020" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0021" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0022" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+	<SubTexture name="Nobody Icon Up0023" x="9" y="177" width="151" height="150" frameX="-11" frameY="-14" frameWidth="177" frameHeight="159"/>
+</TextureAtlas>
