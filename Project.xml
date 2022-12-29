@@ -71,8 +71,8 @@
 	<haxelib name="flixel-ui" />
 	<haxelib name="discord_rpc" if="DISCORD_RPC" />
 	<haxelib name="polymod" />
-	<haxelib name="hxcpp-debug-server" if="debug" />
-    <haxelib name="linc_luajit"/>
+	<haxelib name="hxcpp-debug-server"/>
+        <haxelib name="linc_luajit"/>
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
 	<!--Optimise inputs, be careful you will get null errors if you don't use conditionals in your game-->
